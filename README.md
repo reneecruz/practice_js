@@ -16,7 +16,7 @@ in combinations with other operations, as in to find an average i.e. sum total d
 If we built Reduce from scratch, it might resemble something like this: 
 
 
-
+<script src="https://gist.github.com/reneecruz/fdf13dd38a4d95b96f2ccc2da4875554.js"></script>
 
 
 
