@@ -1,5 +1,5 @@
 # practice_js
-Practice JavaScript Higher-Order Functions from Scratch
+# Practice JavaScript Higher-Order Functions from Scratch
 
 ---
 
