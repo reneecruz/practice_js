@@ -1,11 +1,11 @@
 // reduce method from scratch
 
-function reduce(array, combining_function, starting_index) {
-    let current_index = starting_index
+function reduce(array, combiningFunction, startingIndex) {
+    let currentIndex = startingIndex
     for (let element of array) {
-      current_index = combining_function(current_index, element);
+      currentIndex = combiningFunction(currentIndex, element);
     }
-    return current_index;
+    return currentIndex;
   }
   
   console.log(reduce([1,2,3,4], (a, b) => a + b, 0));
